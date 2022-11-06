@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Battery_Cell,BatteryHolder_Keystone_1058_1x2032,84.4,-74.1,180.0,bottom
+C1,10uF,C_0603_1608Metric,104.225,-54.875,-90.0,bottom
+C2,100nF,C_0603_1608Metric,94.375,-62.4,-90.0,bottom
+C4,100nF,C_0603_1608Metric,75.0,-63.5,135.0,bottom
+D1,WS2812-2020,ws2812-2020_reverse,89.5,-62.5,180.0,bottom
+D2,WS2812-2020,ws2812-2020_reverse,71.0,-65.5,180.0,bottom
+R1,10K,R_0603_1608Metric,103.3,-60.3,-135.0,bottom
+SW1,POWER,SW_SPDT_PCM12,100.2,-45.2,-35.0,bottom
+U1,ATtiny13A-SS,SOIC-8_3.9x4.9mm_P1.27mm,98.95,-58.5,90.0,bottom
